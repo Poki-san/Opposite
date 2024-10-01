@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Opposite</string>
+    <string name="title">Все наоборот</string>
+    <string name="btn">Преобразовать</string>
+    <string name="result">Результат</string>
+    <string name="count">Количество символов</string>
+</resources>
